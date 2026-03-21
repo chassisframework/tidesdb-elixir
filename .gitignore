@@ -1,0 +1,16 @@
+# The directory Mix will write compiled artifacts to.
+/_build/
+/cover/
+/deps/
+/doc/
+erl_crash.dump
+*.ez
+tidesdb-*.tar
+/tmp/
+
+.expert
+
+/tidesdb/
+.cache
+compile_commands.json
+dbs
